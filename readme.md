@@ -5,4 +5,4 @@ To be able to commit files to github through email. The idea for this came from 
 The Process is shown through the diagram below.
 
 > This project uses AWS S3, Lambda, SES.
-> ![Diagram1](Diagram1.png)
+> ![Diagram01](Diagram1.png)
